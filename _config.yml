@@ -1,0 +1,28 @@
+name: cut+paste
+favicon: null
+layout_spectrum: 0.946516576455906
+typography_spectrum: 0.6948451239150017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.21617973828688264
+  lightness: 0.7590659060515463
+  saturation: 0.9783626748248935
+  rhythmicContrast: 0.8192647979594767
+purpose: []
